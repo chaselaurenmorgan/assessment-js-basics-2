@@ -1,0 +1,18 @@
+1. GOAT - sneaker and streetwear marketplace platform. 
+    Backend - GOAT's backend is primarily built using Ruby on Rails and based on some job's descriptions They also use other technologies such as Python, Java, and Node.js for specific tasks.
+    Frontend -  According GOAT's medium blog their  frontend is built using modern web technologies such as React.js, Redux, and TypeScript. They also use GraphQL, a query language for APIs, to improve the efficiency of data fetching.
+    Database - GOAT's database is built using PostgreSQL, an open-source relational database management system.
+
+
+
+
+2. Netflix - streaming service for movie and television shows. 
+    Backend -  It appears Netflix primarily uses Java and the Spring Framework to build its backend services.
+    Frontend - Netflix's frontend is built using a combination of technologies, including JavaScript frameworks like React and Node.js for server-side rendering.
+    Database - The database that Netflix uses is Amazon DynamoDB for key-value data storage, and MySQL for relational data storage. 
+
+3. Anki - spaced repetition flashcard application. 
+    Backend - Anki's backend is primarily built using Python ans it uses Flask for web development and SQLAlchemy for database management.
+    Frontend - Anki's frontend is built using multiple technologies, including PyQt for desktop platforms, UIKit for iOS, and JavaFX for Android. 
+    Database -  Anki uses SQLite as its default database for storing flashcard data.
+

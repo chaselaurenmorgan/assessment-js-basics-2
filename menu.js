@@ -52,7 +52,7 @@ const pizza = {
 */
 
 //CODE HERE
-console.log(pizza.popularity)
+//console.log(pizza.popularity)
 
 /*
     Second, log the second tag in your pizza's
@@ -62,7 +62,7 @@ console.log(pizza.popularity)
 */
 
 //CODE HERE
-console.log(pizza.tags[1])
+//console.log(pizza.tags[1])
 
 /*
     Third, destructure the price off of the
@@ -74,7 +74,7 @@ console.log(pizza.tags[1])
 //CODE HERE
 
 const {price} = pizza
-console.log(price)
+//console.log(price)
 
 /*
     Fourth, and last, destructure the category
@@ -86,7 +86,7 @@ console.log(price)
 //CODE HERE
 
 const {category} = pizza
-console.log(category)
+//console.log(category)
 
 //////////////////PROBLEM 3////////////////////
 /* 
@@ -215,6 +215,7 @@ const filterByProperty = (property, number, type) => {
   
     return filteredArray;
   };
+  
 
 /*
     Invoke the `filterByProperty` function passing
@@ -225,4 +226,4 @@ const filterByProperty = (property, number, type) => {
 
 //CODE HERE
 
-console.log(filterByProperty(rating,20,'below'))
+console.log(filterByProperty('popularity',4,'above'))
